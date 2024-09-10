@@ -11,7 +11,7 @@ Welcome to the **Calculator** project! 🧮✨ This is a simple yet elegant calc
 
 ## Screenshot
 
-![Calculator Screenshot](https://via.placeholder.com/600x400?text=Calculator+Screenshot)  
+![Calculator Screenshot](Calculator.png)  
 *The interface of the Calculator application*
 
 ## Installation
